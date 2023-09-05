@@ -1,2 +1,3 @@
 # git_test
-asdf
+The OdinProject lessons! 
+Hello Odin!
